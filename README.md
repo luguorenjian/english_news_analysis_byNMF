@@ -26,9 +26,19 @@
 
 このように一つの非負値行列を二つの非負値行列の積で分解する方法をNMF(Nonnegative Matrix Factorization)と呼ぶ。実は、一般の非負値行列 X に対して、U と V を求めるのは数学的にNP問題であることが知られている。ここで中村先生(機械学習とパタン認識という授業を担当する先生)から助けをもらって、近似解を求める方法が開発されていることがわかった。具体的な方法はこちら： 
 
-<img src="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf更新ルール.png" width=500 height=450 />
+<img src="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf更新ルール.png" width=500 height=450 /><\n>
+このアルゴリズムを実装したファイルはこちら：
 
 ## 実施内容
 1. 英文ニュースRSSサイトから記事を取り出す。feedparserというpythonのライブラリを使って、記事をとる。具体的な手順はこちら：
 <a href="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/getnewsrss.py" target="_blank">getnewsrss.py</a> 取り出された記事はこちら：<a href="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/news.txt" target="_blank">news.txt</a>
-2. 
+2. 取られた記事を行列に入れる。入れる前に前処理が必要である。なぜなら、英語は日本語のように活用形がある。例えば、sleep,sleeps,sleepingは一緒の意味を持っている。もしこれらを違う意味を持つ単語として行列に入れれば、行列の大きさはすごく大きくなり、行列分解の効率が低い。ということで、
+
+
+
+
+
+
+
+
+
