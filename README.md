@@ -13,3 +13,5 @@
 |ユーザー３|１|１|２|１|３|
 |ユーザー４|１|２|１|３|１|
 
+![lalala](english_news_analysis_byNMF/nmf.png ''图片title'')
+
