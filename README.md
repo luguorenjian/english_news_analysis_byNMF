@@ -17,8 +17,8 @@
 |ユーザ３|１|１|２|１|３|
 |ユーザ４|１|２|１|３|１|
 
-このデータを非負値行列としてあらわす、非負値行列の積で分解
-![X = U * V](https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf.png)
+このデータを非負値行列 X としてあらわす、非負値行列の積 U * V で分解
+![](https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf.png)
 
 これで解釈がしやすい! 
 + 各ユーザの購買ベクトル(行ベクトル)は、２つの購買パターンu1=(1,1,2,1,3)とu2=(1,2,1,3,1)の線形和　
