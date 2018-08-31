@@ -55,12 +55,29 @@
 
 
 
-それぞれのトピックと一番関連度の高い三つの記事を表す：
+それぞれのトピックと一番関連度の高い三つの記事を表す(タイトルだけ)：
 
 _トピック１_
+- 'At UN event, speakers call for end to Syria barrel bombs '
+- 'Austrian minister: Deal with Assad _ but only short term '
+- 'Key Leaders to Watch at the United Nations General Assembly '
 
+_トピック２_
+- 'Typhoon Dujuan reaches mainland China after killing 2 in Taiwan '
+- 'Typhoon Dujuan kills two in Taiwan, arrives in eastern China '
+- 'Typhoon makes landfall in eastern China; two dead in Taiwan '
 
+_トピック３_
+- 'Catalan Separatists Win Elections But Face Challenges In Breakaway From Spain '
+- 'Catalan head indicted for calling referendum on split from Spain '
+- 'Catalan separatist parties win parliament vote in Spain '
 
+_トピック４_
+- 'Coalition fighting Islamic State launch 17 airstrikes in Syria, Iraq '
+- 'Iraq: Dozens killed in clashes with Islamic State, coalition airstrikes across Anbar province '
+- 'Iraq says it will network Islamic State intelligence with Russia, Syria and Iran '
+
+_..._
 
 
 
