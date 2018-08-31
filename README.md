@@ -25,4 +25,4 @@
 + ユーザ１,2,3,4の購買ベクトルはそれぞれu1,u2方向の成分が(1,0),(1,1),(1,0),(0,1)のベクトル 
 
 このように一つの非負値行列を二つの非負値行列の積で分解する方法をNMF(Nonnegative Matrix Factorization)と呼ぶ。実は、一般の非負値行列 X に対して、U と V を求めるのは数学的にNP問題であることが知られている。ここで中村先生(機械学習とパタン認識という授業を担当する先生)から助けをもらって、近似解を求める方法が開発されていることがわかった。具体的な方法はこちら：
-![](https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf.png)
+![](https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf更新ルール.png)
