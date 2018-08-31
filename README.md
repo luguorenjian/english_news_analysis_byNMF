@@ -29,5 +29,5 @@
 <img src="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf更新ルール.png" width=500 height=450 />
 
 ## 実施内容
-+ 英文ニュースRSSサイトから記事を取り出す。feedparserというpythonのライブラリを使って、記事をとる。具体的な手順はこちら：
+1. 英文ニュースRSSサイトから記事を取り出す。feedparserというpythonのライブラリを使って、記事をとる。具体的な手順はこちら：
 <a href="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/getnewsrss.py" target="_blank">getnewsrss.py</a>
