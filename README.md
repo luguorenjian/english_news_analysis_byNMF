@@ -30,5 +30,5 @@
 
 ## 実施内容
 + 英文ニュースRSSサイトから記事を取り出す
-feedparserというpythonのライブラリを使って、記事をとる。具体的な手順はこちら：\n
-<a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">getnewsrss</a>
+feedparserというpythonのライブラリを使って、記事をとる。具体的な手順はこちら：
+<a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">getnewsrss.py</a>
