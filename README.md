@@ -13,6 +13,6 @@
 |ユーザー３|１|１|２|１|３|
 |ユーザー４|１|２|１|３|１|
 
-
+このデータを非負値行列としてあらわす、非負値行列の積で分解
 ![](https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/nmf.png)
 
