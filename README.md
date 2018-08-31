@@ -30,5 +30,5 @@
 
 ## 実施内容
 1. 英文ニュースRSSサイトから記事を取り出す。feedparserというpythonのライブラリを使って、記事をとる。具体的な手順はこちら：
-<a href="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/getnewsrss.py" target="_blank">getnewsrss.py</a>取り出された記事はこちら：<a href="" target="_blank">news.txt</a>
+<a href="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/getnewsrss.py" target="_blank">getnewsrss.py</a> 取り出された記事はこちら：<a href="https://github.com/luguorenjian/english_news_analysis_byNMF/blob/master/news.txt" target="_blank">news.txt</a>
 2. 
